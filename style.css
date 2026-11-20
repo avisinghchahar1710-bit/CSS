@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+  width: 95%;
+  margin: 24px auto;
+}
+
+caption {
+  font-size: 24px;
+  font-weight: bold;
+  padding: 12px;
+}
+
+th,
+td {
+  border: 1px solid #555;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #24527a;
+  color: white;
+}
+
+.break {
+  background-color: #fff0c2;
+  font-weight: bold;
+}
